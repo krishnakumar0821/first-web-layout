@@ -1,0 +1,154 @@
+#main{
+    border: 2px solid;
+    width: 1001px;
+    height: 603px;
+    /* text-align: center; */
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+#div-1{
+    background-color: rgb(29, 12, 92);
+    width: 998px;
+    height: 100px;
+    margin-left: 1px;
+    color: White;
+    font-size: 50px;
+    text-align: center;
+}
+#div-1:hover{
+    background-color: red;
+    color:yellow;
+    font-size: 70px;
+}
+#div-2{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    font-size: 28px;
+    color: white;
+}
+.mndiv-1{
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    border: 1px solid;
+    width: 198px;
+    height: 40px;
+    float: left;
+}
+.mndiv-2{
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    border: 1px solid;
+    width: 198px;
+    height: 40px;
+    float: left;
+}
+.mndiv-3{
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    width: 198px;
+    height: 40px;
+    float: left;
+}
+.mndiv-4{
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    width: 198px;
+    height: 40px;
+    float: left;
+}
+.mndiv-5{
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    width: 198px;
+    height: 40px;
+    float: right;
+}
+/* Main div of 3rd Div */
+#mainDiv{
+    margin-top: 1px;
+    width: 1000px;
+    height: 210px; 
+    text-align: center;
+    font-size: 24px;
+    color: white;
+
+}
+.home{
+    height: 40px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: rgb(29, 12, 92);
+}
+.about{
+    height: 40px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: rgb(29, 12, 92);
+}
+.course{
+    height: 40px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: rgb(29, 12, 92);
+}
+.gallery{
+    height: 40px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: rgb(29, 12, 92);
+}
+.contact{
+    height: 40px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: rgb(29, 12, 92);
+}
+
+#img{
+    width: 748px;
+    height: 207px;
+    margin-right: 1px;
+    background-color: rgb(123, 171, 235);
+    float: right;
+}
+
+.client-div{
+    height: 150px;
+    width: 999px;
+    border: 1px solid white;
+    background-color: rgb(57, 17, 110);
+    font-weight: bolder;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+#multi-img{
+    width: 1000px;
+    height: 100px;
+}
+
+.img-1{
+    width: 334px;
+    height: 100px;
+    margin-left: 1px;
+    background-color:slategray;
+    float: left;
+}
+
+.img-2{
+    width: 333px;
+    margin-left: 1px;
+    height: 100px;
+    background-color: rgb(123, 171, 235);
+    float: left;
+}
+
+.img-3{
+    width: 330px;
+    height: 100px;
+    margin-left: 1px;
+    background-color:slategray;
+    float: right;
+}
